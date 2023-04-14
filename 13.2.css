@@ -1,0 +1,15 @@
+html{
+	background-image:url(2.png); 
+	background-size: cover;
+	Background-attachment: fixed;
+}
+table{
+	border-radius:5px;
+}
+button{
+	border-radius:5px;
+	transition-duration: 0.4s;
+}
+button:hover{
+	background-color:#82b0fa;
+}
