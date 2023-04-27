@@ -1,8 +1,13 @@
 
-a {
+a:link {
 	color:#000000;
 	text-decoration: none;
 }
+a:visited{
+	color:#6151C9;
+	text-decoration: none;
+}
+
 }
 button{
 border: 0px solid #FFFFFF;
